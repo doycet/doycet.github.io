@@ -51,7 +51,7 @@ You&#8217;re not punk,<sup><strong>4</strong></sup> but honestly? That&#8217;s o
 
 * * *
 
-<sup><strong>1</strong></sup> &#8212; Of those &#8216;punk&#8217; words I listed, only cyberpunk didn&#8217;t end up with a little red squiggly line under it. The spellchecker knows.</p> 
+<sup><strong>1</strong></sup> &#8212; Of those &#8216;punk&#8217; words I listed, only cyberpunk didn&#8217;t end up with a little red squiggly line under it. The spellchecker knows.
 
 <sup><strong>2</strong></sup> &#8212; Or what we now imagine punk to have been, the same way we imagine the Wild West a certain way
 
