@@ -9,4 +9,3 @@ categories:
 --- 
 
 <p>A Trump administration order banned refugees from entering the United States on Holocaust Remembrance Day.</p>
-![](http://ifttt.com/images/no_image_card.png)
