@@ -1,12 +1,5 @@
 ---
-title: queeranarchism:
-
-
-sweeeeeeet-serendipity:
-
-queeranarchism:
-
-White millenials voted for Trump 48% to...
+title: White millenials voted for Trump 48% to 42%
 date: January 28, 2017 at 02:27AM
 author: Doyce
 layout: post
