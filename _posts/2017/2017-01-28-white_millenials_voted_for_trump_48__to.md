@@ -15,9 +15,9 @@ categories:
 <blockquote>
 <p><a href="http://queeranarchism.tumblr.com/post/152990089443/white-millenials-voted-for-trump-48-to-42-white" class="tumblr_blog" target="_blank">queeranarchism</a>:</p>
 <blockquote>
-<p>White millenials voted for Trump 48% to 42% 
+<p>White millenials voted for Trump 48% to 42%  <br>
 
-White women voted for Trump 53% to 43% 
+White women voted for Trump 53% to 43%  <br>
 
 White college graduates voted for Trump 49% to 45%</p>
 
@@ -26,13 +26,13 @@ White college graduates voted for Trump 49% to 45%</p>
 
 <p>The problem with this post is that it’s comparing whites to whites. Not blacks to blacks or blacks to whites. This is complete bull shit sorry</p>
 </blockquote>
-<p>Black men voted Hillary 82% to 13% 
+<p>Black men voted Hillary 82% to 13%  
 Black women voted Hillary 94% to 4%</p>
-<p>Latino men voted Hillary 63% to 32% 
+<p>Latino men voted Hillary 63% to 32%  
 Latino women voted Hillary 69% to 25%</p>
-<p>Black millenials voted Hillary 85% to 9% 
+<p>Black millenials voted Hillary 85% to 9%  
 Latinos millenials voted Hillary 68% to 26%</p>
-<p>Non-whites college graduates voted Hillary 72% to 22% 
+<p>Non-whites college graduates voted Hillary 72% to 22%  
  
 
 
