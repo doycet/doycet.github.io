@@ -26,13 +26,13 @@ White college graduates voted for Trump 49% to 45%</p>
 
 <p>The problem with this post is that it’s comparing whites to whites. Not blacks to blacks or blacks to whites. This is complete bull shit sorry</p>
 </blockquote>
-<p>Black men voted Hillary 82% to 13%  
+<p>Black men voted Hillary 82% to 13%  <br>
 Black women voted Hillary 94% to 4%</p>
-<p>Latino men voted Hillary 63% to 32%  
+<p>Latino men voted Hillary 63% to 32%  <br>
 Latino women voted Hillary 69% to 25%</p>
-<p>Black millenials voted Hillary 85% to 9%  
+<p>Black millenials voted Hillary 85% to 9%  <br>
 Latinos millenials voted Hillary 68% to 26%</p>
-<p>Non-whites college graduates voted Hillary 72% to 22%  
+<p>Non-whites college graduates voted Hillary 72% to 22%  <br>
  
 
 
