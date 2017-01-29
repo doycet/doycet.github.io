@@ -1,7 +1,5 @@
 ---
-title: heartinamitten:
-
-White women: FIX UR FACE.
+title: FIX UR FACE.
 date: January 28, 2017 at 08:21PM
 author: Doyce
 layout: post

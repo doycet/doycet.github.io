@@ -1,7 +1,5 @@
 ---
 title: He will not divide us.
-
-resist
 date: January 28, 2017 at 08:07PM
 author: Doyce
 layout: post
