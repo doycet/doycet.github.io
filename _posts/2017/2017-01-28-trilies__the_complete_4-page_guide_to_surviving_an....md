@@ -1,7 +1,5 @@
 ---
-title: trilies:
-
-The Complete 4-Page Guide to Surviving an...
+title: The Complete 4-Page Guide to Surviving an Authoritarian Regime
 date: January 28, 2017 at 07:51PM
 author: Doyce
 layout: post

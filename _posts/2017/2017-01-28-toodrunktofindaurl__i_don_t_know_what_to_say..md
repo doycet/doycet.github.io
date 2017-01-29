@@ -1,7 +1,5 @@
 ---
-title: toodrunktofindaurl:
-
-I don’t know what to say.
+title: I don’t know what to say.
 date: January 28, 2017 at 07:10PM
 author: Doyce
 layout: post

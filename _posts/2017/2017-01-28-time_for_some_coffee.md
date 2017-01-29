@@ -1,11 +1,5 @@
 ---
 title: Time for some coffee.
-
-  
-
-
-   
-
 date: January 28, 2017 at 01:43AM
 author: Doyce
 layout: post
