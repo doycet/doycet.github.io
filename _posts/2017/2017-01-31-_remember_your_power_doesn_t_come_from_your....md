@@ -1,5 +1,5 @@
 ---
-title: “Remember: your power doesn’t come from your...
+title: Remember: your power doesn’t come from your...
 date: January 31, 2017 at 09:54AM
 author: Doyce
 layout: post
