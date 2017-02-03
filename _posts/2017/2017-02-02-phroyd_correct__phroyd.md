@@ -1,9 +1,5 @@
 ---
-title: phroyd:
-Correct!
-Phroyd
-
-
+title: Shoes
 date: February 02, 2017 at 04:47PM
 author: Doyce
 layout: post
