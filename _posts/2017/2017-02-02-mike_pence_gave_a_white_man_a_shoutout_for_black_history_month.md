@@ -8,4 +8,6 @@ categories:
 - 
 --- 
 
-<a href="http://thegrapevine.theroot.com/mike-pence-gave-a-white-man-a-shoutout-for-black-histor-1791901359?utm_source=recirculation&utm_medium=recirculation&utm_campaign=thursdayPM">Mike Pence Gave a White Man a Shoutout for Black History Month</a>: <p>I wonder if the writers for the Onion are just working side-hustle jobs for <em>Home and Garden</em> right now. Seriously WTF can they post that’s crazier than what’s happening.</p> 
+<a href="http://thegrapevine.theroot.com/mike-pence-gave-a-white-man-a-shoutout-for-black-histor-1791901359?utm_source=recirculation&utm_medium=recirculation&utm_campaign=thursdayPM">Mike Pence Gave a White Man a Shoutout for Black History Month</a>: 
+
+I wonder if the writers for the Onion are just working side-hustle jobs for <em>Home and Garden</em> right now. Seriously WTF can they post that’s crazier than what’s happening. 
