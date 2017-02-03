@@ -1,5 +1,5 @@
 ---
-title: Tweets with replies by Sarah Gailey (@gaileyfrey) | Twitter
+title: Tweets with replies by Sarah Gailey
 date: January 31, 2017 at 09:50AM
 author: Doyce
 layout: post
