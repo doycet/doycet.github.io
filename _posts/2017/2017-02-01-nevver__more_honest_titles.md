@@ -1,7 +1,5 @@
 ---
-title: nevver:
-
-More Honest Titles
+title: More Honest Titles
 date: February 01, 2017 at 12:22PM
 author: Doyce
 layout: post
