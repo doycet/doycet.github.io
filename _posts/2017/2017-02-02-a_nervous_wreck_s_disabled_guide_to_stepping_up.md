@@ -8,4 +8,6 @@ categories:
 - 
 --- 
 
-<a href="https://medium.com/@mahdialynn/a-nervous-wrecks-disabled-guide-to-stepping-up-a6bdc95553b0#.qayygv8r8">A Nervous Wreck’s Disabled Guide to Stepping Up</a>: <p>A valuable guide.</p> 
+<a href="https://medium.com/@mahdialynn/a-nervous-wrecks-disabled-guide-to-stepping-up-a6bdc95553b0#.qayygv8r8">A Nervous Wreck’s Disabled Guide to Stepping Up</a> 
+
+<p>A valuable guide.</p> 
