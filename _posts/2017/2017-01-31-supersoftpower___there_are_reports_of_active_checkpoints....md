@@ -1,8 +1,5 @@
 ---
-title: supersoftpower:
-
-
-There are reports of active checkpoints...
+title: There are reports of active checkpoints...
 date: January 31, 2017 at 10:44PM
 author: Doyce
 layout: post
