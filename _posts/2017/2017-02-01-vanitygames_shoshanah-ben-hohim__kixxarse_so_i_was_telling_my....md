@@ -1,9 +1,5 @@
 ---
-title: vanitygames:
-shoshanah-ben-hohim:
-
-kixxarse:
-So I was telling my...
+title: So I was telling my...
 date: February 01, 2017 at 06:19PM
 author: Doyce
 layout: post
