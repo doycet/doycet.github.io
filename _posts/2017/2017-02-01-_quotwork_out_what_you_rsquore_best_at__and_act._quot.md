@@ -1,5 +1,5 @@
 ---
-title: &quot;Work out what you&rsquo;re best at, and act.&quot;
+title: Work out what you're best at, and act.
 date: February 01, 2017 at 11:42AM
 author: Doyce
 layout: post
