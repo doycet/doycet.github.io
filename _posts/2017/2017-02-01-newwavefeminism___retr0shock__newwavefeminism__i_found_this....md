@@ -1,12 +1,5 @@
 ---
-title: newwavefeminism:
-
-
-retr0shock:
-
-newwavefeminism:
-
-I found this...
+title: I found this...
 date: February 01, 2017 at 03:11PM
 author: Doyce
 layout: post
