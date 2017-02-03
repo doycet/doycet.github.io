@@ -8,6 +8,8 @@ categories:
 - 
 --- 
 
-<a href="https://medium.com/@yonatanzunger/trial-balloon-for-a-coup-e024990891d5#.8ft08ftai">Trial Balloon for a Coup?</a> <p>This is not fun reading.</p>
+<a href="https://medium.com/@yonatanzunger/trial-balloon-for-a-coup-e024990891d5#.8ft08ftai">Trial Balloon for a Coup?</a> 
+
+<p>This is not fun reading.</p>
 
 <p>Read it anyway.</p> 
