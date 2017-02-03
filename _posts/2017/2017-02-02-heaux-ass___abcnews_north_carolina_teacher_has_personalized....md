@@ -1,9 +1,5 @@
 ---
-title: heaux-ass:
-
-
-abcnews:
-North Carolina teacher has personalized...
+title: North Carolina teacher...
 date: February 02, 2017 at 09:32AM
 author: Doyce
 layout: post
