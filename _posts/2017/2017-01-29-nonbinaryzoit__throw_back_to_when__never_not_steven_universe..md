@@ -1,9 +1,5 @@
 ---
-title: nonbinaryzoit:
-
-throw back to when
-
-Never not Steven Universe.
+title: Never not Steven Universe.
 date: January 29, 2017 at 10:17PM
 author: Doyce
 layout: post
