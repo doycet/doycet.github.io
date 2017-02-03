@@ -1,10 +1,5 @@
 ---
-title: soundssimpleright:
-
-
-3go:
-
-i downloaded this god damn episode...
+title: i downloaded this god damn episode...
 date: January 29, 2017 at 09:51PM
 author: Doyce
 layout: post
