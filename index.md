@@ -10,4 +10,4 @@ SubHeading
   This is a hyperlink to [The Real Homepage](https://doycet.github.io/index.html#!index.md).
 
   Images are like hyperlinks, but with an exclamation mark in front of them:
-  ![](img/basic moves.png)
+  ![](img/basic_moves.png)
