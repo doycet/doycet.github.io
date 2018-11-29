@@ -31,7 +31,7 @@ This proved to be all the constraint she needed to take off like a rocket, and s
 
 All _I_ had to do was prepare to run a game for table of 13 year old girls, so... new experiences all around!
 
-### The Big Day
+## The Big Day
 
 Kaylee was basically vibrating with anticipation by the time Sunday rolled around, and to be honest I was looking forward to it as well, but before we headed out to our local game/coffee shop rendezvous, I cautioned her that the Rules of Gaming Schedules would prevail, and she should be prepared for people to be late or, come to that, simply not show up.  I didn't want to kill her excitement, but better ahead of time than in the middle of the game. I'm a stoic; sue me.
 
@@ -43,11 +43,12 @@ So, with playbooks in hand, the two started working on their sheets.
 
 Kaylee went with... 
 
-#### THE PROTÉGÉ.
+## THE PROTÉGÉ.
 HERO NAME: Silhouette
 REAL NAME: Casey Quinn (Casey is actually K.C., for Kendall Charity, which she hates)
+![](silhouette-kat.jpg)
 
-**Look** <a href="http://randomaverage.com/wp/wp-content/uploads/2018/11/bce4a1ba-6f0e-48c4-88e0-a14acb196b7c.jpg"><img src="http://randomaverage.com/wp/wp-content/uploads/2018/11/bce4a1ba-6f0e-48c4-88e0-a14acb196b7c-212x300.jpg" alt="" width="212" height="300" class="alignright size-medium wp-image-13206" /></a>
+**Look** 
 * Caucasian, female, lean body, casual clothes 
 * Very simple costume consisting of combat boots, black cargo pants with some ballistic cloth lining, a sort of long-sleeved black compression mock turtleneck(same lining), and a tight, featureless black cowl.
 
@@ -111,7 +112,7 @@ Also, she drew up her character, which is awesome.
 
 JC1 patiently let me run her through all the playbooks, and then selected... 
 
-#### The Outsider
+## The Outsider
 
 ... which is what she'd wanted in the first place.
 
@@ -155,12 +156,15 @@ Also, G1 totally didn't show, so... right again. (I'm not smart, I've just been 
 
 Anyway, JC2 is here! Also, she has a really strong idea for her character, and immediately grabs...
 
-#### THE NOVA
+## THE NOVA
 
 HERO NAME: Ember  
 REAL NAME: Lucy Ray
 
-<a href="http://randomaverage.com/wp/wp-content/uploads/2018/11/download_20181127_104011.jpg"><img src="http://randomaverage.com/wp/wp-content/uploads/2018/11/download_20181127_104011-136x300.jpg" alt="" width="136" height="300" class="alignright size-medium wp-image-13208" /></a>**Look**
+<a href="http://randomaverage.com/wp/wp-content/uploads/2018/11/download_20181127_104011.jpg"><img src="http://randomaverage.com/wp/wp-content/uploads/2018/11/download_20181127_104011-136x300.jpg" alt="" width="136" height="300" class="alignright size-medium wp-image-13208" /></a>
+
+**Look**
+
 * woman, caucasian, blonde/reddish hair, blue eyes, casual clothing, and a colorful costume (black, with flames print around the wrist and ankles. Tall boots.)
 
 **Backstory**
@@ -182,7 +186,7 @@ REAL NAME: Lucy Ray
 
 -------------------
 
-### You all go to Phoenix Academy...
+## You all go to Phoenix Academy...
 
 The players were all interested in an intensely school-focused game, so we're using the "Phoenix Academy" playset from the Masks: Unbound sourcebook. Initially, this meant the next step in chargen was sketching out the faculty of the school and asking the players some questions.
 
@@ -207,10 +211,9 @@ I let them know about Hellbinder, the headmaster/demon parolee in charge of the 
 * Silhouette, who do you think would make a better headmaster?
     * Princess Arizella - not because she's got much experience, just because it would be AWESOME.
 
-
 After that, we went on to the standard -
 
-### When the team first came together...
+## When the team first came together...
 
 This went pretty quickly. I first asked who the team had been fighting at the time. Kaylee remembered fighting Rampage in some other Masks one-shot, and thought they made a good one-and-done background enemy.
 
