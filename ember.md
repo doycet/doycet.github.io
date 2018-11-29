@@ -1,9 +1,11 @@
 # THE NOVA
 
 HERO NAME: Ember  
+![](img/ember_01.jpg)
+
 REAL NAME: Lucy Ray
 
-<a href="http://randomaverage.com/wp/wp-content/uploads/2018/11/download_20181127_104011.jpg"><img src="http://randomaverage.com/wp/wp-content/uploads/2018/11/download_20181127_104011-136x300.jpg" alt="" width="136" height="300" align="right" /></a>**Look**
+**Look**
 * woman, caucasian, blonde/reddish hair, blue eyes, casual clothing, and a colorful costume (black, with flames print around the wrist and ankles. Tall boots.)
 
 **Backstory**
