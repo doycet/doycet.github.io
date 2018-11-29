@@ -33,3 +33,11 @@ Both the shapeshifting and telepathy are native abilities of her people.
 
 * Why do you care about the team?
     * My family tree is EXTENSIVE, so I really miss having a close support network.
+
+    ![](img/palacene_form.png "original form")  
+    ![](img/palacene_hair.png "hair")  
+    ![](img/palacene_costume.png "costume")  
+    ![](img/Palacene_flier.png "flying form")  
+    ![](img/Palacene_lion.png "lion")  
+    ![](img/Palacene_runner.png "runner")  
+    ![](img/Palacene_snake.png "snake")  
