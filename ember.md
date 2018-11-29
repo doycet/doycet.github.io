@@ -8,7 +8,7 @@ REAL NAME: Lucy Ray
 **Look**
 * woman, caucasian, blonde/reddish hair, blue eyes, casual clothing, and a colorful costume (black, with flames print around the wrist and ankles. Tall boots.)
 
-**Backstory**
+## Backstory
 
 * When did you first use your powers?
      * Only a few months ago.
@@ -27,7 +27,7 @@ REAL NAME: Lucy Ray
 
 -----
 
-### Inspirational Pictures
+## Inspirational Pictures
 
 ![](img/ember_02.jpg)
 ![](img/th.jpg)
