@@ -10,8 +10,7 @@ REAL NAME: Peggy J (She doesn't really get how names work, yet)
 * female human body (at least most of the time), metallic eyes, mismatched clothing (earth fashions are HARD), and a practical costume (which might just be her, shapeshifting something that looks like her idea of a costume)
 
 **Abilities**
-She can fly, and she's pretty tough, also:  <a href="http://randomaverage.com/wp/wp-content/uploads/2018/11/dc38ac7ac89a04e3b0e3593f8851eeab.jpg"><img src="http://randomaverage.com/wp/wp-content/uploads/2018/11/dc38ac7ac89a04e3b0e3593f8851eeab-300x292.jpg" alt="" width="300" height="292" class="alignright size-medium wp-image-13207" /></a>
-
+She can fly, and she's pretty tough, also:  
 * radical shapeshifting  
 * telepathy and mind blasts
 
