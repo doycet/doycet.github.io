@@ -1,13 +1,18 @@
-Heading
+Masks EG
 =======
 
-SubHeading
+Our Heroes
 ----------
 
-  * list item 1
-  * list item 2
+  * [Ember](ember.md)
+  * [Palacene](palacene.md)
+  * [Silhouette](silhouette.md)
+  * [Delinquent](subitem2.md)
 
-  This is a hyperlink to [The Real Homepage](https://doycet.github.io/index.html#!index.md).
+This is a hyperlink to [The Real Homepage](https://doycet.github.io/index.html#!index.md).
 
-  Images are like hyperlinks, but with an exclamation mark in front of them:
-  ![](img/basic_moves.png)
+------
+
+[Playbooks]()
+[Basic Moves](img/basic_moves.png)
+[Peripheral Moves](img/peripheral_moves.png)
