@@ -1,7 +1,7 @@
 # THE NOVA
 
 HERO NAME: Ember  
-![](img/ember_01.jpg)
+![](img/Ember_01.jpg)
 
 REAL NAME: Lucy Ray
 
