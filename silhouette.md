@@ -1,17 +1,17 @@
-#### THE PROTÉGÉ.
+#### THE PROTÃ‰GÃ‰.
 HERO NAME: Silhouette
 REAL NAME: Casey Quinn (Casey is actually K.C., for Kendall Charity, which she hates)
 
-**Look** <a href="http://randomaverage.com/wp/wp-content/uploads/2018/11/bce4a1ba-6f0e-48c4-88e0-a14acb196b7c.jpg"><img src="http://randomaverage.com/wp/wp-content/uploads/2018/11/bce4a1ba-6f0e-48c4-88e0-a14acb196b7c-212x300.jpg" alt="" width="212" height="300" class="alignright size-medium wp-image-13206" /></a>
+**Look** <a href="http://randomaverage.com/wp/wp-content/uploads/2018/11/bce4a1ba-6f0e-48c4-88e0-a14acb196b7c.jpg"><img src="http://randomaverage.com/wp/wp-content/uploads/2018/11/bce4a1ba-6f0e-48c4-88e0-a14acb196b7c-212x300.jpg" alt="" width="212" height="300" align="right" /></a>
 * Caucasian, female, lean body, casual clothes 
 * Very simple costume consisting of combat boots, black cargo pants with some ballistic cloth lining, a sort of long-sleeved black compression mock turtleneck(same lining), and a tight, featureless black cowl.
 
 **Abilities**
-You are someone’s protégé. Your powers somewhat mimic theirs, but each of you is in some way unique.
+You are someoneâ€™s protÃ©gÃ©. Your powers somewhat mimic theirs, but each of you is in some way unique.
 
 * SHARED ABILITY: Detective skills
 * YOUR OWN ABILITY: Impossible fighting skills (hyper senses)
-* YOUR MENTOR’S ABILITY: telepathy/telekinesis
+* YOUR MENTORâ€™S ABILITY: telepathy/telekinesis
 
 **Mentor**
 Sil's mentor is **Vigil**, who's somewhere between Oracle and The Question for one of the city's premiere adult superhero teams. 
@@ -52,8 +52,8 @@ It didn't take long for her to get into some trouble.
 * Why do you care about the team?
     * Because they never coddle me or think I need to be specially protected becuase I can't see.
 
-Finally, Kaylee picked out her Protégé moves, with an eye toward that 'veteran'/leadership role she hoped to play.
+Finally, Kaylee picked out her ProtÃ©gÃ© moves, with an eye toward that 'veteran'/leadership role she hoped to play.
 
-* Been reading the files: When you first encounter an important superpowered phenomenon (your call), roll + Superior. On a hit, tell the team one important detail you’ve learned from your studies. The GM will tell you what, if anything, seems different from what you remember.  
+* Been reading the files: When you first encounter an important superpowered phenomenon (your call), roll + Superior. On a hit, tell the team one important detail youâ€™ve learned from your studies. The GM will tell you what, if anything, seems different from what you remember.  
 * Captain: When you enter battle as a team, add an extra Team to the pool and carry +1 forward if you are the leader.  
 * Be mindful of your surroundings: When you Assess the Situation before entering into a fight, you may ask one additional question, even on a miss.
