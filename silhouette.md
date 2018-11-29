@@ -9,7 +9,9 @@ tags: pc hero
 HERO NAME: Silhouette
 REAL NAME: Casey Quinn (Casey is actually K.C., for Kendall Charity, which she hates)
 
-**Look** <a href="http://randomaverage.com/wp/wp-content/uploads/2018/11/bce4a1ba-6f0e-48c4-88e0-a14acb196b7c.jpg"><img src="http://randomaverage.com/wp/wp-content/uploads/2018/11/bce4a1ba-6f0e-48c4-88e0-a14acb196b7c-212x300.jpg" alt="" width="212" height="300" align="right" /></a>
+**Look**
+![](img/silhouette-kat.jpg)
+
 * Caucasian, female, lean body, casual clothes 
 * Very simple costume consisting of combat boots, black cargo pants with some ballistic cloth lining, a sort of long-sleeved black compression mock turtleneck(same lining), and a tight, featureless black cowl.
 
