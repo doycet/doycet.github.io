@@ -1,4 +1,11 @@
-#### THE PROTÉGÉ.
+---
+layout: post
+title: Silhouette
+tags: pc hero
+---
+
+
+# THE PROTÉGÉ.
 HERO NAME: Silhouette
 REAL NAME: Casey Quinn (Casey is actually K.C., for Kendall Charity, which she hates)
 

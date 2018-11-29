@@ -1,4 +1,4 @@
-#### THE NOVA
+# THE NOVA
 
 HERO NAME: Ember  
 REAL NAME: Lucy Ray

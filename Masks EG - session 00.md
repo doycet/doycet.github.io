@@ -1,4 +1,4 @@
-﻿# Masks, Session 00
+# Masks, Session 00
 
 Pretty much since the beginning of this school year, Kaylee has been assembling a short list classmate/friends who have some RPG experience, or interest in same. However, nothing was really _happening_ with that until the last month or two, when she and I hit on the idea of doing a game of Masks.
 
