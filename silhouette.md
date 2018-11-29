@@ -9,27 +9,27 @@ tags: pc hero
 HERO NAME: Silhouette
 REAL NAME: Casey Quinn (Casey is actually K.C., for Kendall Charity, which she hates)
 
-**Look**
+## Look
 ![](img/silhouette-kat.jpg)
 
 * Caucasian, female, lean body, casual clothes 
 * Very simple costume consisting of combat boots, black cargo pants with some ballistic cloth lining, a sort of long-sleeved black compression mock turtleneck(same lining), and a tight, featureless black cowl.
 
-**Abilities**
+## Abilities
 You are someone’s protégé. Your powers somewhat mimic theirs, but each of you is in some way unique.
 
 * SHARED ABILITY: Detective skills
 * YOUR OWN ABILITY: Impossible fighting skills (hyper senses)
 * YOUR MENTOR’S ABILITY: telepathy/telekinesis
 
-**Mentor**
+## Mentor
 Sil's mentor is **Vigil**, who's somewhere between Oracle and The Question for one of the city's premiere adult superhero teams. 
 
 She does not *do* sidekicks.
 
 Vigil EMBODIES Superior logic, and DENIES Mundane concerns.
 
-**Backstory**
+## Backstory
 Casey wasn't born blind. Her mother died shortly after she was born, due to complications with the birth itself. Her father tried, but being a single parent was overwhelming; at some point in her early childhood, there was a bad car accident. Maybe he dozed off, maybe he was drinking. Casey tries not to think about it.
 
 The accident blinded her, and that added complication to their lives proved too much for Casey's dad, who abandoned her to child services and a series of orphanages and foster homes.
