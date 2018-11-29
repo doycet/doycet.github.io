@@ -13,6 +13,6 @@ This is a hyperlink to [The Real Homepage](https://doycet.github.io/index.html#!
 
 ------
 
-[Playbooks](Masks-Playbooks-ALL.pdf)  
+[Playbooks](Masks-Playbooks-no-pix.pdf)  
 [Basic Moves](img/basic_moves.png)  
 [Peripheral Moves](img/peripheral_moves.png)  
