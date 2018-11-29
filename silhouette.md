@@ -57,3 +57,12 @@ Finally, Kaylee picked out her Protégé moves, with an eye toward that 'veteran
 * Been reading the files: When you first encounter an important superpowered phenomenon (your call), roll + Superior. On a hit, tell the team one important detail you’ve learned from your studies. The GM will tell you what, if anything, seems different from what you remember.  
 * Captain: When you enter battle as a team, add an extra Team to the pool and carry +1 forward if you are the leader.  
 * Be mindful of your surroundings: When you Assess the Situation before entering into a fight, you may ask one additional question, even on a miss.
+
+-----
+
+### Inspirational Pictures
+
+![](img/sil_cosplay02.jpg)
+![](img/sil_cosplay03.jpg)
+![](img/sil_cosplay04.jpg)
+![](img/sil_cosplay01.jpg)

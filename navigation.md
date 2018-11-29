@@ -20,22 +20,52 @@
 
 ----
 
-[Phoenix Academy Faculty](PA_Faculty.md)
+[PA Faculty]()
+
+  * # Phoenix Academy Faculty
+  * [Headmaster Hellbinder](Hellbinger.md)
+  * [Mrs. Selma](Selma.md)
+  * [Mister Brick](MisterBrick.md)
+  * [Princess Arizella](PrincessArizella.md)
+  * [Sergeant S.U.R.G.E.](SgtSurge.md)
+  * [Beckley, the Custodian](Beckley.md)
 
 ----
 
-[Student Body](PA_Students.md)
+[PA Student Body]()
+
+  * # Phoenix Academy Student Body  
+  * [Maria Manuel](maria.md)
+  * [Jack](JackMonday.md)
+  * [The Honor Roll](HonorRoll.md)
+  * [The Munchies](Munchies.md)
+  * [The Miss-takes](MissTakes.md)
+
+----
+
+[Heroes]()
+
+  * # Adult Heroes
+  * [Vigil](vigil.md)
+  * [Transcendent]()
+  * [Journeyman]()
+  * [Olympians](img/assets/Olympiand.jpg)
 
 ----
 
 [Villains]()
 
   * # Villains
-  * [Voltaic](voltaic.md)
+  * [Voltaic](img/Villains/voltaic.png)
+  * [Fulcrum]()
+  * [Jabber]()
+  * [Punchline]()
+  * [Blunder]()
 
 ----
 
-[NPCs]()
+[Other NPCs]()
 
-  * # NPCs
-  * [Maria Manuel](maria.md)
+  * # Other NPCs
+  * [Agatha](MissAgatha.md)
+  * [Oversight](Oversight.md)

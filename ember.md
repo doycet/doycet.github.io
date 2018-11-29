@@ -22,3 +22,10 @@ REAL NAME: Lucy Ray
 
 * Why do you care about the team?
     * They trust her. Right now, it doesn't seem like anyone trusts her.
+
+-----
+
+### Inspirational Pictures
+
+![](img/ember_02.jpg)
+![](img/th.jpg)
