@@ -65,4 +65,4 @@ Finally, Kaylee picked out her Protégé moves, with an eye toward that 'veteran
 ![](img/sil_cosplay02.jpg)
 ![](img/sil_cosplay03.jpg)
 ![](img/sil_cosplay04.jpg)
-![](img/sil_cosplay01.jpg)
+![](img/Sil_cosplay01.jpg)
