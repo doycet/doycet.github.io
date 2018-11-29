@@ -4,17 +4,16 @@ HERO NAME: Palacene (both heroic and her 'home' name)
 REAL NAME: Peggy J (She doesn't really get how names work, yet)
 
 **Look**
-
 * female human body (at least most of the time), metallic eyes, mismatched clothing (earth fashions are HARD), and a practical costume (which might just be her, shapeshifting something that looks like her idea of a costume)
 
-**Abilities**
+## Abilities
 She can fly, and she's pretty tough, also:  
 * radical shapeshifting  
 * telepathy and mind blasts
 
 Both the shapeshifting and telepathy are native abilities of her people.
 
-**Backstory**
+## Backstory
 
 * Where do you come from?
     * Lucidia - a colorful planet with 3 suns and many moons. It's got a LOT of ocean, and is heavily affected by varying gravitational forces, so the inhabitants of the world have learned to be very... adaptable and fluid.
@@ -31,10 +30,11 @@ Both the shapeshifting and telepathy are native abilities of her people.
 * Why do you care about the team?
     * My family tree is EXTENSIVE, so I really miss having a close support network.
 
-    ![](img/palacene_form.png "original form")  
-    ![](img/palacene_hair.png "hair")  
-    ![](img/palacene_costume.png "costume")  
-    ![](img/Palacene_flier.jpg "flying form")  
-    ![](img/Palacene_lion.jpg "lion")  
-    ![](img/Palacene_runner.jpg "runner")  
-    ![](img/Palacene_snake.jpg "snake")  
+## Inspirational Pictures
+![](img/palacene_form.png "original form")  
+![](img/palacene_hair.png "hair")  
+![](img/palacene_costume.png "costume")  
+![](img/Palacene_flier.jpg "flying form")  
+![](img/Palacene_lion.jpg "lion")  
+![](img/Palacene_runner.jpg "runner")  
+![](img/Palacene_snake.jpg "snake")  
