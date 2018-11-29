@@ -1,3 +1,5 @@
+﻿# Masks, Session 00
+
 Pretty much since the beginning of this school year, Kaylee has been assembling a short list classmate/friends who have some RPG experience, or interest in same. However, nothing was really _happening_ with that until the last month or two, when she and I hit on the idea of doing a game of Masks.
 
 Right away, this presented some interesting challenges. 
@@ -45,7 +47,7 @@ Kaylee went with...
 HERO NAME: Silhouette
 REAL NAME: Casey Quinn (Casey is actually K.C., for Kendall Charity, which she hates)
 
-**Look**
+**Look** <a href="http://randomaverage.com/wp/wp-content/uploads/2018/11/bce4a1ba-6f0e-48c4-88e0-a14acb196b7c.jpg"><img src="http://randomaverage.com/wp/wp-content/uploads/2018/11/bce4a1ba-6f0e-48c4-88e0-a14acb196b7c-212x300.jpg" alt="" width="212" height="300" class="alignright size-medium wp-image-13206" /></a>
 * Caucasian, female, lean body, casual clothes 
 * Very simple costume consisting of combat boots, black cargo pants with some ballistic cloth lining, a sort of long-sleeved black compression mock turtleneck(same lining), and a tight, featureless black cowl.
 
@@ -97,9 +99,9 @@ It didn't take long for her to get into some trouble.
 
 Finally, Kaylee picked out her Protégé moves, with an eye toward that 'veteran'/leadership role she hoped to play.
 
-❑ Been reading the files: When you first encounter an important superpowered phenomenon (your call), roll + Superior. On a hit, tell the team one important detail you’ve learned from your studies. The GM will tell you what, if anything, seems different from what you remember.  
-❑ Captain: When you enter battle as a team, add an extra Team to the pool and carry +1 forward if you are the leader.  
-❑ Be mindful of your surroundings: When you Assess the Situation before entering into a fight, you may ask one additional question, even on a miss.
+* Been reading the files: When you first encounter an important superpowered phenomenon (your call), roll + Superior. On a hit, tell the team one important detail you’ve learned from your studies. The GM will tell you what, if anything, seems different from what you remember.  
+* Captain: When you enter battle as a team, add an extra Team to the pool and carry +1 forward if you are the leader.  
+* Be mindful of your surroundings: When you Assess the Situation before entering into a fight, you may ask one additional question, even on a miss.
 
 Her mentor is also supposed to provide some resources to her and the team, but she decided to wait on that until she knew what was most needed. (I'm guessing a hidden base is on the list.)
 
@@ -117,16 +119,19 @@ HERO NAME: Palacene (both heroic and her 'home' name)
 REAL NAME: Peggy J (She doesn't really get how names work, yet)
 
 **Look**
+
 * female human body (at least most of the time), metallic eyes, mismatched clothing (earth fashions are HARD), and a practical costume (which might just be her, shapeshifting something that looks like her idea of a costume)
 
 **Abilities**
-She can fly, and she's pretty tough, also:  
-❑ radical shapeshifting  
-❑ telepathy and mind blasts
+She can fly, and she's pretty tough, also:  <a href="http://randomaverage.com/wp/wp-content/uploads/2018/11/dc38ac7ac89a04e3b0e3593f8851eeab.jpg"><img src="http://randomaverage.com/wp/wp-content/uploads/2018/11/dc38ac7ac89a04e3b0e3593f8851eeab-300x292.jpg" alt="" width="300" height="292" class="alignright size-medium wp-image-13207" /></a>
+
+* radical shapeshifting  
+* telepathy and mind blasts
 
 Both the shapeshifting and telepathy are native abilities of her people.
 
-Backstory
+**Backstory**
+
 * Where do you come from?
     * Lucidia - a colorful planet with 3 suns and many moons. It's got a LOT of ocean, and is heavily affected by varying gravitational forces, so the inhabitants of the world have learned to be very... adaptable and fluid.
 
@@ -150,12 +155,12 @@ Also, G1 totally didn't show, so... right again. (I'm not smart, I've just been 
 
 Anyway, JC2 is here! Also, she has a really strong idea for her character, and immediately grabs...
 
-####THE NOVA
+#### THE NOVA
 
 HERO NAME: Ember  
 REAL NAME: Lucy Ray
 
-**Look**
+<a href="http://randomaverage.com/wp/wp-content/uploads/2018/11/download_20181127_104011.jpg"><img src="http://randomaverage.com/wp/wp-content/uploads/2018/11/download_20181127_104011-136x300.jpg" alt="" width="136" height="300" class="alignright size-medium wp-image-13208" /></a>**Look**
 * woman, caucasian, blonde/reddish hair, blue eyes, casual clothing, and a colorful costume (black, with flames print around the wrist and ankles. Tall boots.)
 
 **Backstory**
@@ -196,7 +201,7 @@ I let them know about Hellbinder, the headmaster/demon parolee in charge of the 
 * Ember, which teacher's do you think are secretly hooking up?
     * The janitor, whom everyone thinks is great, and Princess Arizella, the swashbuckling English teacher.
 
-* Palacene, which teacher do you think should retire.
+* Palacene, which teacher do you think should retire?
     * Selma Schwatz, the perpetually ancient school administrator know-it-all.
 
 * Silhouette, who do you think would make a better headmaster?
@@ -223,7 +228,7 @@ After that, they mapped out relationships between each other (with three players
 
 We didn't have much time at this point, so I framed them into a scene waiting for the ferry to take them to the Phoenix Academy island for their first day of sophomore year (2nd year there for Silhouette - 1st for Palacene and Ember).
 
-There was a bit of chit chat, until Ember noticed an ozone scent in the air and tingling static along her skin. Silhouette took stock (assess the situaiton), realized they were about to be attacked and, based on the environmental clues, guessed it was Voltaic - an AI who had gone rogue and decided the best way to keep humanity safe was kill all metahumans... what better target than a quay full of teen supers?
+<a href="http://randomaverage.com/wp/wp-content/uploads/2018/11/2018-11-25-Screen-Shot-2018-11-25-at-12.45.56-PM.png"><img src="http://randomaverage.com/wp/wp-content/uploads/2018/11/2018-11-25-Screen-Shot-2018-11-25-at-12.45.56-PM-217x300.png" alt="" width="217" height="300" class="alignright size-medium wp-image-13209" /></a>There was a bit of chit chat, until Silhouette noticed an ozone scent in the air and tingling static along her skin. She took stock (assess the situaiton), realized they were about to be attacked and, based on the environmental clues, guessed it was Voltaic - an AI who had gone rogue and decided the best way to keep humanity safe was kill all metahumans... what better target than a quay full of teen supers?
 
 She'd **read the files** on Voltaic, though, and quickly let the team know they needed to get the thing into the water, before it could hurt anyone. Go go go!
 
