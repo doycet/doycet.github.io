@@ -4,11 +4,13 @@ HERO NAME: Palacene (both heroic and her 'home' name)
 REAL NAME: Peggy J (She doesn't really get how names work, yet)
 
 **Look**
+
 * female human body (at least most of the time), metallic eyes, mismatched clothing (earth fashions are HARD), and a practical costume (which might just be her, shapeshifting something that looks like her idea of a costume)
 
 ## Abilities
 She can fly, and she's pretty tough, also:  
-* radical shapeshifting  
+
+* radical shapeshifting
 * telepathy and mind blasts
 
 Both the shapeshifting and telepathy are native abilities of her people.

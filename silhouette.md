@@ -3,8 +3,6 @@ HERO NAME: Silhouette
 REAL NAME: Casey Quinn (Casey is actually K.C., for Kendall Charity, which she hates)
 
 ## Look
-![](img/silhouette-kat.jpg)
-
 * Caucasian, female, lean body, casual clothes 
 * Very simple costume consisting of combat boots, black cargo pants with some ballistic cloth lining, a sort of long-sleeved black compression mock turtleneck(same lining), and a tight, featureless black cowl.
 
@@ -64,6 +62,7 @@ Finally, Kaylee picked out her Protégé moves, with an eye toward that 'veteran
 
 ### Inspirational Pictures
 
+![](img/silhouette-kat.jpg)
 ![](img/sil_cosplay02.jpg)
 ![](img/sil_cosplay03.jpg)
 ![](img/sil_cosplay04.jpg)
