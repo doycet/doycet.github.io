@@ -14,8 +14,8 @@
 
   * # Session List
   * [Session 00](Masks EG - session 00.md)
-  * [Session 01](Masks EG - session 01.md)
-  * [Session 02](Masks EG - session 02.md)
+  * [Session 01](MasksEG-session01.md)
+  * [Session 02](MasksEG-session02.md)
   * [SubMenu Item 2](subitem2.md)
 
 ----
@@ -23,7 +23,7 @@
 [PA Faculty]()
 
   * # Phoenix Academy Faculty
-  * [Headmaster Hellbinder](Hellbinger.md)
+  * [Headmaster Hellbinder](Hellbinder.md)
   * [Mrs. Selma](Selma.md)
   * [Mister Brick](MisterBrick.md)
   * [Princess Arizella](PrincessArizella.md)
@@ -46,7 +46,7 @@
 [Heroes]()
 
   * # Adult Heroes
-  * [Vigil](vigil.md)
+  * [Vigil](Vigil.md)
   * [Transcendent]()
   * [Journeyman]()
   * [Olympians](img/assets/Olympiand.jpg)
