@@ -1,6 +1,9 @@
 Masks EG
 =======
 
+.
+![](img/assets/masks logo.png)
+
 Our Heroes
 ----------
 
