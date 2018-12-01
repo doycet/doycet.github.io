@@ -60,7 +60,7 @@ Finally, Kaylee picked out her Protégé moves, with an eye toward that 'veteran
 
 -----
 
-### Inspirational Pictures
+## Inspirational Pictures
 
 ![](img/silhouette-kat.jpg)
 ![](img/sil_cosplay02.jpg)
