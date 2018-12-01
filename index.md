@@ -10,7 +10,7 @@ Our Heroes
   * [Ember](ember.md)
   * [Palacene](palacene.md)
   * [Silhouette](silhouette.md)
-  * [Delinquent](subitem2.md)
+  * [Delinquent](delinquent.md)
 
 
 ------
@@ -22,5 +22,3 @@ Note: Here are a few resources useful during play.
 [Peripheral Moves](img/peripheral_moves.png)  
 
 -----
-
-[gimmick:Disqus](doycet)
