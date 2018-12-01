@@ -4,6 +4,7 @@ HERO NAME: Ember
 REAL NAME: Lucy Ray
 
 **Look**
+
 * woman, caucasian, blonde/reddish hair, blue eyes, casual clothing, and a colorful costume (black, with flames print around the wrist and ankles. Tall boots.)
 
 ## Backstory
