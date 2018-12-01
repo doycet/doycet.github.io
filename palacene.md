@@ -1,7 +1,7 @@
 # The Outsider
 
 HERO NAME: Palacene (both heroic and her 'home' name)  
-REAL NAME: Peggy J (She doesn't really get how names work, yet)
+REAL NAME: Penny J (She doesn't really get how names work, yet)
 
 **Look**
 
