@@ -117,7 +117,7 @@ JC1 patiently let me run her through all the playbooks, and then selected...
 ... which is what she'd wanted in the first place.
 
 HERO NAME: Palacene (both heroic and her 'home' name)
-REAL NAME: Peggy J (She doesn't really get how names work, yet)
+REAL NAME: Penny J (She doesn't really get how names work, yet)
 
 **Look**
 
