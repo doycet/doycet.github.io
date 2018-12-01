@@ -1,4 +1,5 @@
 # Mister Brick
 
 Math teacher. Totally normal.
-![](img/assets/masks logo.png)
+
+![](img/NPCs/mr-brick.jpg)
