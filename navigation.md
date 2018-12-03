@@ -6,7 +6,7 @@
   * [Ember](ember.md)
   * [Palacene](palacene.md)
   * [Silhouette](silhouette.md)
-  * [Delinquent](subitem2.md)
+  * [Delinquent](delinquent.md)
 
 ----
 
@@ -47,6 +47,7 @@
 
   * # Adult Heroes
   * [Vigil](Vigil.md)
+  * [Patrol](img/NPCs/Patrol.jpg)
   * [Transcendent]()
   * [Journeyman]()
   * [Olympians](img/assets/Olympiand.jpg)
