@@ -12,7 +12,8 @@
 [Sessions]()
 
   * # Session List
-  * [Session 00](Masks EG - session 00.md)
+  * [Session 00](MasksEG-session
+  00.md)
   * [Session 01](MasksEG-session01.md)
   * [Session 02](MasksEG-session02.md)
   * [SubMenu Item 2](subitem2.md)
