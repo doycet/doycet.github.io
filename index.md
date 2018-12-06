@@ -10,8 +10,6 @@ Our Heroes
   * [Ember](ember.md)
   * [Palacene](palacene.md)
   * [Silhouette](silhouette.md)
-  * [Delinquent](delinquent.md)
-
 
 ------
 
