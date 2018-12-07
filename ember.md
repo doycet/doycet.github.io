@@ -30,4 +30,5 @@ REAL NAME: Lucy Ray
 
 ![](img/Ember_01.jpg)
 ![](img/ember_02.jpg)
+![](img/ember_watercolor.jpg)
 ![](img/th.jpg)
