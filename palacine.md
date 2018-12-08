@@ -1,6 +1,6 @@
 # The Outsider
 
-HERO NAME: Palacene (both heroic and her 'home' name)  
+HERO NAME: Palacine (both heroic and her 'home' name)  
 REAL NAME: Penny J (She doesn't really get how names work, yet)
 
 **Look**
@@ -33,10 +33,10 @@ Both the shapeshifting and telepathy are native abilities of her people.
     * My family tree is EXTENSIVE, so I really miss having a close support network.
 
 ## Inspirational Pictures
-![](img/palacene_form.png "original form")  
-![](img/palacene_hair.png "hair")  
-![](img/palacene_costume.png "costume")  
-![](img/Palacene_flier.jpg "flying form")  
-![](img/Palacene_lion.jpg "lion")  
-![](img/Palacene_runner.jpg "runner")  
-![](img/Palacene_snake.jpg "snake")  
+![](img/palacine_form.png "original form")  
+![](img/palacine_hair.png "hair")  
+![](img/palacine_costume.png "costume")  
+![](img/Palacine_flier.jpg "flying form")  
+![](img/Palacine_lion.jpg "lion")  
+![](img/Palacine_runner.jpg "runner")  
+![](img/Palacine_snake.jpg "snake")  
