@@ -33,10 +33,11 @@ Both the shapeshifting and telepathy are native abilities of her people.
     * My family tree is EXTENSIVE, so I really miss having a close support network.
 
 ## Inspirational Pictures
-![](img/palacine_form.png "original form")  
-![](img/palacine_hair.png "hair")  
-![](img/palacine_costume.png "costume")  
-![](img/Palacine_flier.jpg "flying form")  
-![](img/Palacine_lion.jpg "lion")  
-![](img/Palacine_runner.jpg "runner")  
-![](img/Palacine_snake.jpg "snake")  
+![](img/palacene_form.png "original form")  
+![](img/palacene_hair.png "hair")  
+![](img/palacene_costume.png "costume")  
+![](img/Palacene-sealion-run.jpg)
+![](img/Palacene_flier.jpg "flying form")  
+![](img/Palacene_lion.jpg "lion")  
+![](img/Palacene_runner.jpg "runner")  
+![](img/Palacene_snake.jpg "snake")  
