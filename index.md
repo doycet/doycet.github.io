@@ -8,7 +8,7 @@ Our Heroes
 ----------
 
   * [Ember](ember.md)
-  * [Palacene](palacene.md)
+  * [Palacine](palacine.md)
   * [Silhouette](silhouette.md)
 
 ------
