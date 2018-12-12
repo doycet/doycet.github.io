@@ -14,6 +14,6 @@ Youtube recording - more visuals, less editing.
 ## Relevant imagery
 
 * ![Roll20 screen](Sessions/2018-12-08_6-16-56.png "Roll20 Opening Screen")
-* ![Voltaic](Villains/voltaic.png)
+* ![Voltaic](img/Villains/voltaic.png)
 * ![Palacine's Aquatic Attack Form](img/Palacine-sealion-run.jpg "Palacine's Aquatic Attack Form")
-* ![The Base](assets/the_base.jpg "The New-Old Base")
+* ![The Base](img/assets/the_base.jpg "The New-Old Base")
