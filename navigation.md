@@ -12,8 +12,7 @@
 [Sessions]()
 
   * # Session List
-  * [Session 00](MasksEG-session
-  00.md)
+  * [Session 00](MasksEG-session00.md)
   * [Session 01 - Comicbook Clickbait](MasksEG-session01.md) - [Session 01 Audio](http://randomaverage.com/index.php/2018/12/masks-eg-actual-play-session-01-comicbook-clickbait/) - [Session 01 on Youtube](https://youtu.be/Crf8LQ9tOTM)
   * [Session 02](MasksEG-session02.md)
   * [SubMenu Item 2](subitem2.md)
