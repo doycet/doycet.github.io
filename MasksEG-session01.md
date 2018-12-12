@@ -7,9 +7,8 @@ Later that morning, they recover in the school infirmary, and spend lunch hour h
 ## Links
 
 * [The Podcast Recording](http://randomaverage.com/index.php/2018/12/masks-eg-actual-play-session-01-comicbook-clickbait/)
+* [Youtube recording - more visuals, less editing](https://youtu.be/Crf8LQ9tOTM)
 
-[](https://youtu.be/Crf8LQ9tOTM)
-Youtube recording - more visuals, less editing.
 
 ## Relevant imagery
 
