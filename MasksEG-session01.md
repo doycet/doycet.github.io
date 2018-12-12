@@ -12,7 +12,7 @@ Later that morning, they recover in the school infirmary, and spend lunch hour h
 
 ## Relevant imagery
 
-![Roll20 screen](Sessions/2018-12-08_6-16-56.png "Roll20 Opening Screen")
+![Roll20 screen](img/Sessions/2018-12-08_6-16-56.png "Roll20 Opening Screen")
 ![Voltaic](img/Villains/voltaic.png)
 ![Palacine's Aquatic Attack Form](img/Palacine-sealion-run.jpg "Palacine's Aquatic Attack Form")
 ![The Base](img/assets/the_base.jpg "The New-Old Base")
