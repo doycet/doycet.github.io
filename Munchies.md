@@ -1,12 +1,18 @@
 # The Munchies
 
-Phoenix Academy super-clique. Food-themed super-team.
+Phoenix Academy clique. Food-themed super-team.
 
-## Bear-claw
+## Otter-pop
+![](img/NPCs/otter-pop.jpg)
+
+## Bearclaw
+![](img/NPCs/bear-claws_head.jpg)
 
 ## Ginger Snap
+![](img/NPCs/ginger-snap.jpg)
 
-## Dingdong
+## Fig Neutron
+![](img/NPCs/fig-neutron.jpg)
 
 Under construction.
 ![](img/assets/masks logo.png)

@@ -14,7 +14,7 @@
   * # Session List
   * [Session 00](MasksEG-session00.md)
   * [Session 01 - Comicbook Clickbait](MasksEG-session01.md)
-  * [Session 02](MasksEG-session02.md)
+  * [Session 02 - The Non-Frolick](MasksEG-session02.md)
 
 ----
 
@@ -22,7 +22,7 @@
 
   * # Phoenix Academy Faculty
   * [Headmaster Hellbinder](Hellbinder.md)
-  * [Mrs. Selma](Selma.md)
+  * [Mrs. Selma Schwartz](Selma.md)
   * [Mister Brick](MisterBrick.md)
   * [Princess Arizella](PrincessArizella.md)
   * [Sergeant S.U.R.G.E.](SgtSurge.md)
@@ -46,9 +46,9 @@
   * # Adult Heroes
   * [Vigil](Vigil.md)
   * [Patrol](img/NPCs/Patrol.jpg)
+  * [Olympians](img/assets/Olympiand.jpg)
   * [Transcendent]()
   * [Journeyman]()
-  * [Olympians](img/assets/Olympiand.jpg)
 
 ----
 
@@ -56,10 +56,12 @@
 
   * # Villains
   * [Voltaic](img/Villains/voltaic.png)
-  * [Fulcrum]()
-  * [Jabber]()
-  * [Punchline]()
+  * [Alias](img/Villains/faceless.jpg)
+  * [Fulcrum](img/Villains/fulcrum.jpg)
+  * [Jabber](img/Villains/jabber.jpg)
+  * [Punchline](img/Villains/punchline.png)
   * [Blunder]()
+  * [Hashtag]()
 
 ----
 

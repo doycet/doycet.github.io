@@ -4,5 +4,4 @@
 
 Never cuts [Ember](ember.md) a break, probably because he can tell she can't control her powers.
 
-Under construction.
-![](img/assets/masks logo.png)
+![](img/NPCs/SURGE.jpg)

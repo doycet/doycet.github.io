@@ -37,6 +37,7 @@ Both the shapeshifting and telepathy are native abilities of her people.
 ![](img/palacine_hair.png "hair")  
 ![](img/palacine_costume.png "costume")  
 ![](img/Palacine-sealion-run.jpg)
+![](img/Palacine-spidre.jpg "Palacine's Spidre Form")
 ![](img/Palacine_flier.jpg "flying form")  
 ![](img/Palacine_lion.jpg "lion")  
 ![](img/Palacine_runner.jpg "runner")  
